@@ -4,7 +4,7 @@ I'm currently a student who's passionate about programming, working with GUI int
 technology, and gaining experiences. My skills include Python, SQL, and primary level C/C++.
 Looking forward to making connections and learning stuff.
 
-📫 How to reach me: 
+📫
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=manasvi1604)](https://github.com/manasvi1604)
 
